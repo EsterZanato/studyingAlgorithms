@@ -4,7 +4,6 @@
 
 using namespace std;
 int pesqBin(int[],int);
-int count = count;
 
 int main() {
     int lista[tam] = {2,10,15,17,21,28,40,55,60,65,68,70};
